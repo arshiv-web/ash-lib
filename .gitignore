@@ -13,13 +13,13 @@ build/
 dist/
 
 # Data & Models
-data/
+/data/
 *.pth
 *.pt
 
 # Logs & Experiments
-runs/
-wandb/
+/runs/
+/wandb/
 .ipynb_checkpoints/
 
 # IDE settings (Optional)
