@@ -1,0 +1,27 @@
+# Environments
+ash_env/
+venv/
+env/
+main.py
+
+# Python Build & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+ash.egg-info/
+build/
+dist/
+
+# Data & Models
+data/
+*.pth
+*.pt
+
+# Logs & Experiments
+runs/
+wandb/
+.ipynb_checkpoints/
+
+# IDE settings (Optional)
+.vscode/
+.idea/
