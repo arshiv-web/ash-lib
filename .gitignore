@@ -25,3 +25,4 @@ dist/
 # IDE settings (Optional)
 .vscode/
 .idea/
+*.zip
