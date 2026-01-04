@@ -1,6 +1,6 @@
 import os
 import pathlib
-from typing import Callable, Optional, Tuple, List
+from typing import Callable, Optional, Tuple, List, Dict
 from torch.utils.data import Dataset
 
 class AshFolderDataset(Dataset):
